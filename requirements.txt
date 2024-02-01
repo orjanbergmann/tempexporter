@@ -1,0 +1,8 @@
+certifi
+chardet
+idna
+msgpack
+prometheus-client
+requests
+urllib3
+
